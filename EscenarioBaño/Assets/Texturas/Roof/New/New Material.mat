@@ -248,8 +248,8 @@ Material:
     - _SpecularOcclusionMode: 1
     - _SrcBlend: 1
     - _Stains_B: 0
-    - _Stains_Smoothness_A: 0
-    - _Stains_Smoothness_B: 0
+    - _Stains_Smoothness_A: -0.45
+    - _Stains_Smoothness_B: -0.53
     - _StencilRef: 0
     - _StencilRefDepth: 8
     - _StencilRefDistortionVec: 4
