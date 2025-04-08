@@ -204,7 +204,7 @@ Material:
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
-    - _Displacement_Amount: 0.5
+    - _Displacement_Amount: 0.03
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
@@ -247,9 +247,9 @@ Material:
     - _PPDPrimitiveLength: 1
     - _PPDPrimitiveWidth: 1
     - _Puddles_Blend_Radius_A: 0
-    - _Puddles_Height_A: 0
+    - _Puddles_Height_A: 1.72
     - _Puddles_On_Stains_Off_A: 1
-    - _Puddles_Opacity_A: 1
+    - _Puddles_Opacity_A: 0.983
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
@@ -264,7 +264,7 @@ Material:
     - _SpecularOcclusionMode: 1
     - _SrcBlend: 1
     - _Stains_B: 0
-    - _Stains_Smoothness_A: 0
+    - _Stains_Smoothness_A: 0.69
     - _Stains_Smoothness_B: 0
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -286,7 +286,7 @@ Material:
     - _TessellationMaxDisplacement: 0.01
     - _TessellationMode: 0
     - _TessellationShapeFactor: 0.75
-    - _Tessellation_Factor: 8
+    - _Tessellation_Factor: 64
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
@@ -304,7 +304,7 @@ Material:
     - _UVEmissive: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _Use_Displacement: 0
+    - _Use_Displacement: 1
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
@@ -323,7 +323,7 @@ Material:
     - _Offset_Blend_Mask: {r: 0, g: 0, b: 0, a: 0}
     - _Offset_General: {r: 0, g: 0, b: 0, a: 0}
     - _Offset_Stains_Mask: {r: 0, g: 0, b: 0, a: 0}
-    - _Puddle_Stains_Color_A: {r: 0.75471693, g: 0.75471693, b: 0.75471693, a: 0}
+    - _Puddle_Stains_Color_A: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _Stains_Color_B: {r: 0.35220113, g: 0.30345276, b: 0.27356508, a: 0}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}

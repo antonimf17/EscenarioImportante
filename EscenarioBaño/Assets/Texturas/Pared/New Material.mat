@@ -204,7 +204,7 @@ Material:
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
-    - _Displacement_Amount: 0.5
+    - _Displacement_Amount: 0.03
     - _DoubleSidedEnable: 0
     - _DoubleSidedGIMode: 0
     - _DoubleSidedNormalMode: 1
@@ -286,7 +286,7 @@ Material:
     - _TessellationMaxDisplacement: 0.01
     - _TessellationMode: 0
     - _TessellationShapeFactor: 0.75
-    - _Tessellation_Factor: 8
+    - _Tessellation_Factor: 64
     - _TexWorldScale: 1
     - _TexWorldScaleEmissive: 1
     - _Thickness: 1
@@ -304,7 +304,7 @@ Material:
     - _UVEmissive: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
-    - _Use_Displacement: 0
+    - _Use_Displacement: 1
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
